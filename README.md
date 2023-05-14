@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-            <a href="https://linkedin.com/in/kaoutar el moumnaoui" target="blank">
+            <a href="https://www.linkedin.com/in/kaoutar-el-moumnaoui-5aa20522a/" target="blank">
                 <img alt="LinkedIn" title="KAOUTAR EL MOUMNAOUI" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
             </a>
             <a href="https://discord.gg/EL MOUMNAOUI KAOUTAR" target="blank">
