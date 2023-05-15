@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm EL MOUMNAOUI Kaoutar</h1>
-<h3 align="center">Software engineering Student</h3>
+<h3 align="center"> I'm a student of software engineering. Thank you for visiting my Github profile, I hope you find it to your liking! If you require any further details regarding my public projects, please don't hesitate to contact me via the section provided below.</h3>
 <img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmoumnaouikaoutar&label=Profile%20views&color=0e75b6&style=flat" alt="elmoumnaouikaoutar" /> </p>
