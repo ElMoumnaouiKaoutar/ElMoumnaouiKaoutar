@@ -20,7 +20,7 @@
             <a href="https://discord.gg/EL MOUMNAOUI KAOUTAR" target="blank">
                 <img title="kaoutar on discord" src="https://img.shields.io/badge/Discord-2962FF?style=for-the-badge&logo=discord&logoColor=white" alt="example"/>
             </a>	
-            <a href="mailto:kaoutarelmoumnaoui2001@gmail.com.com">
+            <a href="mailto:kaoutarelmoumnaoui2001@gmail.com">
                 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
             </a>
         </p>
